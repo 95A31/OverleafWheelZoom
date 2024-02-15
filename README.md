@@ -3,7 +3,7 @@ OverleafWheelZoom
 
 Enable wheel zoom in Overleaf.
 
-Installation
+Instructions
 ---
 1) Download
 
