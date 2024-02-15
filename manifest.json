@@ -1,0 +1,12 @@
+{
+    "name": "OverleafWheelGesture",
+    "description": "Enable wheel zoom in Overleaf",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+          "matches": ["*://*.overleaf.com/project/*"],
+          "js": ["wheelzoom.js"]
+        }
+    ]
+}
